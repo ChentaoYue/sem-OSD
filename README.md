@@ -162,20 +162,8 @@ for the precise score definitions and the cutoff/pruning rules of PB-OSD.
 
 ## Citation
 
-If you use this code, please cite
-
-```bibtex
-@inproceedings{semosd2026,
-  title     = {Semantic Ordered Statistics Decoding: A Soft Decoder with a
-               Byte-Level Language-Model Prior},
-  author    = {{anonymous during review}},
-  booktitle = {Proc. IEEE Globecom},
-  year      = {2026}
-}
-```
-
-The BibTeX entry will be updated with author and venue information once the
-camera-ready is finalised.
+A preprint and the corresponding BibTeX entry will be added here once the
+manuscript is posted on arXiv.
 
 ## License
 
