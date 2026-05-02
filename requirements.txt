@@ -1,0 +1,14 @@
+# Core (always required)
+numpy>=1.21
+reedsolo>=1.7
+
+# BCH support (only needed when constructing BCHCode; RS-only users can skip).
+galois>=0.3
+
+# Optional: numerical helpers used by PB-OSD (falls back to math.erfc if absent).
+scipy>=1.10
+
+# Optional: only needed when using the ByT5 semantic-prior wrapper.
+# Comment these out if you only run the channel-only baseline.
+torch>=2.0
+transformers>=4.35
