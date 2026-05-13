@@ -2,7 +2,7 @@
 
 Reference implementation for the paper
 
-> **Semantic Ordered Statistics Decoding: A Soft Decoder with a Byte-Level Language-Model Prior.**
+> **Semantic Ordered Statistics Decoding.**
 
 Sem-OSD is a soft decoder for short byte-aligned linear block codes
 (Reed-Solomon over GF(2^8) and binary BCH whose information word is a multiple
