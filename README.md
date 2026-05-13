@@ -35,7 +35,7 @@ paper can follow the algorithm at the level of source code:
 | Minimal demo                                   | Per-figure result CSVs and logs          |
 
 The held-back pieces will be released here on paper acceptance, together with
-the trained `byt5_prefix_ckpt` (uploaded separately to Zenodo).
+the trained `byt5_prefix_ckpt`.
 
 ## Supported modes (in the released code)
 
