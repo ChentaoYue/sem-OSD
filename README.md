@@ -11,7 +11,7 @@ decoding with a byte-level language-model (LM) prior, fuses the LM evidence
 with the channel reliability into a unified bit/byte score, and enumerates two
 complementary candidate families on top of it:
 
-- **T_b** — bit-flip family of Hamming radius m, accelerated by Promising-Block
+- **T_b** — bit-flip family of Hamming radius m, accelerated by Probability-based
   OSD (PB-OSD) cutoff and pruning;
 - **T_B** — LM-driven byte-substitution family of count w with top-T
   alternatives per position.
